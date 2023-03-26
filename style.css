@@ -2,7 +2,14 @@ h2 {
   text-align: center;
 }
 
-ul{
+li{
   color:black;
   text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
